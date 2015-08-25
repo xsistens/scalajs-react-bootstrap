@@ -19,7 +19,7 @@ object HomePage {
       <.section(
         ^.marginTop := "2.2em",
         ^.fontSize  := "115%",
-        ^.color     := "#333",
+        ^.color     := "#333"
 
 
 
