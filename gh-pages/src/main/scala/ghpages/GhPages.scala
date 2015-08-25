@@ -58,7 +58,7 @@ object GhPages extends JSApp {
     if (dom.window.location.hostname == "localhost")
       BaseUrl.fromWindowOrigin_/
     else
-      BaseUrl.fromWindowOrigin / "scalajs-react/"
+      BaseUrl.fromWindowOrigin / "scalajs-react-bootstrap/"
 
   @JSExport
   override def main(): Unit = {
